@@ -16,10 +16,10 @@
 - 신규 학생 등록
 
 ## API 명세
-- GET/students/degree학생 학위 조회
-- GET/students/email학생 이메일 조회
-- GET/students/stat학위별 학생 수 조회
-- PUT/students/register신규 학생 등록
+- GET/students/degree 학생 학위 조회
+- GET/students/email 학생 이메일 조회
+- GET/students/stat 학위별 학생 수 조회
+- PUT/students/register 신규 학생 등록
 
 ## 실행 환경
 - Java 17
