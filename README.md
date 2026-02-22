@@ -1,4 +1,4 @@
-pring Boot 기반으로 구현한 학생 정보 관리 REST API
+Spring Boot 기반으로 구현한 학생 정보 관리 REST API
 
 기술 스택
 -Java
